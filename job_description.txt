@@ -1,0 +1,17 @@
+Job Title: Data Analyst / AI Intern
+
+We are looking for a motivated intern to join our technology team.
+
+Responsibilities:
+- Analyze data and prepare reports using Excel and SQL
+- Build small machine learning and NLP models in Python
+- Support project management tasks and coordinate with team members
+- Present findings clearly to the team
+
+Requirements:
+- Currently studying Computer Science, Data Science or a related field
+- Knowledge of Python, SQL and Excel
+- Basic understanding of machine learning and NLP
+- Familiarity with AWS or React is a plus
+- Strong communication, teamwork and problem solving skills
+- 1 year of project or internship experience preferred

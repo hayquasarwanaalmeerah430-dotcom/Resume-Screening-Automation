@@ -1,0 +1,4 @@
+rank,resume,skills_found,skill_match_%,experience_years,organizations,tfidf_similarity_%,final_score
+1,Resume 1.pdf,"communication, project management, teamwork, leadership",27.3,0,"wardiere inc., wilson",4.5,13.6
+2,Resume 2.pdf,leadership,0,5,"borcelle university rimberio university, ec, ginyard international co., salford & co., wardiere inc.",1.1,0.7
+,,,,,,,
